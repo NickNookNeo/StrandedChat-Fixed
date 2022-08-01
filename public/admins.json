@@ -1,0 +1,20 @@
+{
+ "allowAdminCreation": true,
+ "admins": [
+  {
+   "name": "StrandedCT",
+   "color": "green",
+   "password": -62058318
+  },
+  {
+   "name": "Bob",
+   "color": "red",
+   "password": 33500072
+  },
+  {
+   "name": "Mysterious",
+   "color": "teal",
+   "password": 2054379279
+  }
+ ]
+}
